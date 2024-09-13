@@ -7,19 +7,11 @@
 - 📚 I attend to Valencia College, my favorite classes are the one that involve Web or Product Design
 - VE I'm from Venezuela
 
-Favorite language/tech/etc.
-My favorite Design tool is figma
-Any other information that helps someone get to know you!
-Must use markdown elements:
-Link
+| Favorite tech |Tools |
+| --- | --- |
+| Dell xps  17  | Figma  |
+| Master MX  | Webflow |
 
-Table
-Image
-Italics
-Bold
-Ordered list
-Checkboxes
-Unordered list
 
 
 <!---
