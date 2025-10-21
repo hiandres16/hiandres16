@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Website or App Design
 - 📫 Reach me at [Hi@hiandres.com]
 - ⚡ Fun fact: I'm black belt in Karate
-- 📚 I attend to Valencia College, my favorite classes are the one that involve Web or Product Design
+- 📚 I Graduated from Valencia College - Interactive Design
 - VE I'm from Venezuela
 
 | Favorite tech |Tools |
